@@ -129,8 +129,8 @@ This repository provides a simulation that injects random bit flips at a configu
 ## Quickstart
 
 ```bash
-git clone https://github.com/archudzik/CosmicRaySort.git
-cd CosmicRaySort
+git clone https://github.com/archudzik/cosmicRaySort.git
+cd cosmicRaySort
 python cosmic_ray_sort.py --n 5 --w 8 --flip-rate 1000 --check-every 100
 ```
 
@@ -140,4 +140,4 @@ Cosmic Ray Sort is a formally correct but computationally degenerate sorting alg
 
 ## License
 
-MIT License.
+The original Python implementation is available under the MIT License; see `LICENSE`.
